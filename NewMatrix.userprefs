@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3B7ED287-E267-4E97-988E-25F3BFB7A431}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NewMatrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\MatrixMulty\MatrixMulty\Program.cs">
+    <Files>
+      <File FileName="NewMatrix\Form1.cs" Line="1" Column="1" />
+      <File FileName="NewMatrix\Form1.Designer.cs" Line="33" Column="64" />
+      <File FileName="..\MatrixMulty\MatrixMulty\Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

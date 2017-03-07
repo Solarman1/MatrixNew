@@ -1,0 +1,9 @@
+G:\Arthur\C#\NewMatrix\NewMatrix\bin\Debug\NewMatrix.exe.config
+G:\Arthur\C#\NewMatrix\NewMatrix\bin\Debug\NewMatrix.exe
+G:\Arthur\C#\NewMatrix\NewMatrix\bin\Debug\NewMatrix.pdb
+G:\Arthur\C#\NewMatrix\NewMatrix\obj\Debug\NewMatrix.csprojResolveAssemblyReference.cache
+G:\Arthur\C#\NewMatrix\NewMatrix\obj\Debug\NewMatrix.Form1.resources
+G:\Arthur\C#\NewMatrix\NewMatrix\obj\Debug\NewMatrix.Properties.Resources.resources
+G:\Arthur\C#\NewMatrix\NewMatrix\obj\Debug\NewMatrix.csproj.GenerateResource.Cache
+G:\Arthur\C#\NewMatrix\NewMatrix\obj\Debug\NewMatrix.exe
+G:\Arthur\C#\NewMatrix\NewMatrix\obj\Debug\NewMatrix.pdb
