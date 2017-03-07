@@ -12,6 +12,7 @@ namespace NewMatrix
 
        public int[,] array;
        public int rows, collumns;
+        private int gogo;
 
         public int Rows
         {

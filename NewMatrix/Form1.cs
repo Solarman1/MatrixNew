@@ -10,7 +10,7 @@ namespace NewMatrix
             InitializeComponent();
         }
 
-        public int a, b;
+        public static int a, b;
 
 
         public void button1_Click(object sender, EventArgs e)
@@ -105,7 +105,8 @@ namespace NewMatrix
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            
+            
             
 
 
