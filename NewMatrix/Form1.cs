@@ -10,7 +10,8 @@ namespace NewMatrix
             InitializeComponent();
         }
 
-        public static int a, b;
+        public int a, b;
+        
 
 
         public void button1_Click(object sender, EventArgs e)
